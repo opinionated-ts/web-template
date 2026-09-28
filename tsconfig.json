@@ -5,7 +5,8 @@
     "jsx": "react-jsx",
     "jsxImportSource": "preact",
     "paths": {
-      "@/*": ["./src/*"],
+      "@/*": ["./src/*", "./src/client/*", "./src/server/*"],
+      "@/pages/*": ["./src/client/pages/*"],
       "@/scripts/*": ["./scripts/*"],
       "react": ["./node_modules/preact/compat/"],
       "react/jsx-runtime": ["./node_modules/preact/jsx-runtime"],
