@@ -1,6 +1,7 @@
 {
   "extends": "@opinionated-ts/config/tsconfig.json",
   "compilerOptions": {
+    "types": ["bun", "node", "vite/client", "unocss"],
     "jsx": "react-jsx",
     "jsxImportSource": "preact",
     "paths": {
