@@ -6,6 +6,7 @@
     "jsxImportSource": "preact",
     "paths": {
       "@/*": ["./src/*", "./src/client/*", "./src/server/*"],
+      "@/styles/*": ["./src/client/styles/*"],
       "@/pages/*": ["./src/client/pages/*"],
       "@/scripts/*": ["./scripts/*"],
       "react": ["./node_modules/preact/compat/"],
