@@ -4,6 +4,9 @@ An experimental TypeScript project template for web development, built on top of
 
 It provides the same tooling foundation as the base template, with an additional web-specific structure and set of defaults.
 
+> [!NOTE]
+> **Deprecation notice for new projects:** We're working toward on-demand template creation to reduce cross-repository maintenance and keep shared improvements and release notes aligned. This template remains usable and may continue to receive updates. [Read the rationale and follow the transition](https://github.com/opinionated-ts/template/discussions/5).
+
 > [!WARNING]
 >
 > This template is currently experimental and under active development.
